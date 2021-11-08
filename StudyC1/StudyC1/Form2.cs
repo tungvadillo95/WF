@@ -1,4 +1,5 @@
-﻿using System;
+﻿using C1.Win.C1FlexGrid;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -14,6 +15,7 @@ namespace StudyC1
     {
         public Form1 form1;
         public string text2;
+        public int row_selected;
         public Form2(string text, Form1 form1)
         {
             InitializeComponent();
@@ -42,7 +44,7 @@ namespace StudyC1
 
         private void c1Button1_Click(object sender, EventArgs e)
         {
-            form1.txbox1 = c1TextBox1.Text;
+            form1.txbox1 = this.text2;
             Close();
         }
         private List<Cow> InitData()
@@ -133,6 +135,16 @@ namespace StudyC1
             {
                 c1TextBox1.Text = cow.cow_code;
             }
+        }
+
+        private void c1FlexGrid1_Click(object sender, EventArgs e)
+        {
+            c1FlexGrid1.Rows[this.row_selected].Selected = false;
+            var row = c1FlexGrid1.Row;
+            this.row_selected = row;
+            c1FlexGrid1.Rows[row].Selected = true;
+            var cell = c1FlexGrid1[row, 1];
+            this.text2 = cell.ToString();
         }
     }
     public class Cow

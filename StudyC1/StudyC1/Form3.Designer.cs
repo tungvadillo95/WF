@@ -41,15 +41,6 @@ namespace StudyC1
             this.label4 = new System.Windows.Forms.Label();
             this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.label5 = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.label7 = new System.Windows.Forms.Label();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.label8 = new System.Windows.Forms.Label();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.label9 = new System.Windows.Forms.Label();
             this.textBox7 = new System.Windows.Forms.TextBox();
             this.label10 = new System.Windows.Forms.Label();
             this.textBox8 = new System.Windows.Forms.TextBox();
@@ -58,6 +49,15 @@ namespace StudyC1
             this.label12 = new System.Windows.Forms.Label();
             this.textBox10 = new System.Windows.Forms.TextBox();
             this.label13 = new System.Windows.Forms.Label();
+            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.label8 = new System.Windows.Forms.Label();
+            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.label9 = new System.Windows.Forms.Label();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
             this.textBox11 = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.c1Button1)).BeginInit();
@@ -76,6 +76,7 @@ namespace StudyC1
             // 
             // textBox1
             // 
+            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.Location = new System.Drawing.Point(102, 25);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
@@ -146,6 +147,7 @@ namespace StudyC1
             // 
             // textBox2
             // 
+            this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox2.Location = new System.Drawing.Point(102, 106);
             this.textBox2.Multiline = true;
             this.textBox2.Name = "textBox2";
@@ -195,83 +197,6 @@ namespace StudyC1
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(772, 100);
             this.panel2.TabIndex = 11;
-            // 
-            // label5
-            // 
-            this.label5.Location = new System.Drawing.Point(13, 189);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(88, 25);
-            this.label5.TabIndex = 12;
-            this.label5.Text = "ホルスタイン";
-            this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            // 
-            // textBox3
-            // 
-            this.textBox3.Location = new System.Drawing.Point(81, 10);
-            this.textBox3.Multiline = true;
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(78, 25);
-            this.textBox3.TabIndex = 3;
-            // 
-            // label6
-            // 
-            this.label6.Location = new System.Drawing.Point(8, 10);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(67, 25);
-            this.label6.TabIndex = 2;
-            this.label6.Text = "ＮＭ＄";
-            this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            // 
-            // textBox4
-            // 
-            this.textBox4.Location = new System.Drawing.Point(81, 53);
-            this.textBox4.Multiline = true;
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(78, 25);
-            this.textBox4.TabIndex = 5;
-            // 
-            // label7
-            // 
-            this.label7.Location = new System.Drawing.Point(8, 53);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(67, 25);
-            this.label7.TabIndex = 4;
-            this.label7.Text = "受胎指数";
-            this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            // 
-            // textBox5
-            // 
-            this.textBox5.Location = new System.Drawing.Point(256, 53);
-            this.textBox5.Multiline = true;
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(78, 25);
-            this.textBox5.TabIndex = 9;
-            // 
-            // label8
-            // 
-            this.label8.Location = new System.Drawing.Point(203, 53);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(67, 25);
-            this.label8.TabIndex = 8;
-            this.label8.Text = "体型";
-            this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            // 
-            // textBox6
-            // 
-            this.textBox6.Location = new System.Drawing.Point(256, 10);
-            this.textBox6.Multiline = true;
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(78, 25);
-            this.textBox6.TabIndex = 7;
-            // 
-            // label9
-            // 
-            this.label9.Location = new System.Drawing.Point(203, 10);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(67, 25);
-            this.label9.TabIndex = 6;
-            this.label9.Text = "Ｍｉｌｋ";
-            this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // textBox7
             // 
@@ -341,6 +266,83 @@ namespace StudyC1
             this.label13.Text = "体細胞数";
             this.label13.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
+            // textBox5
+            // 
+            this.textBox5.Location = new System.Drawing.Point(256, 53);
+            this.textBox5.Multiline = true;
+            this.textBox5.Name = "textBox5";
+            this.textBox5.Size = new System.Drawing.Size(78, 25);
+            this.textBox5.TabIndex = 9;
+            // 
+            // label8
+            // 
+            this.label8.Location = new System.Drawing.Point(203, 53);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(67, 25);
+            this.label8.TabIndex = 8;
+            this.label8.Text = "体型";
+            this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // textBox6
+            // 
+            this.textBox6.Location = new System.Drawing.Point(256, 10);
+            this.textBox6.Multiline = true;
+            this.textBox6.Name = "textBox6";
+            this.textBox6.Size = new System.Drawing.Size(78, 25);
+            this.textBox6.TabIndex = 7;
+            // 
+            // label9
+            // 
+            this.label9.Location = new System.Drawing.Point(203, 10);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(67, 25);
+            this.label9.TabIndex = 6;
+            this.label9.Text = "Ｍｉｌｋ";
+            this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // textBox4
+            // 
+            this.textBox4.Location = new System.Drawing.Point(81, 53);
+            this.textBox4.Multiline = true;
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(78, 25);
+            this.textBox4.TabIndex = 5;
+            // 
+            // label7
+            // 
+            this.label7.Location = new System.Drawing.Point(8, 53);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(67, 25);
+            this.label7.TabIndex = 4;
+            this.label7.Text = "受胎指数";
+            this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // textBox3
+            // 
+            this.textBox3.Location = new System.Drawing.Point(81, 10);
+            this.textBox3.Multiline = true;
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(78, 25);
+            this.textBox3.TabIndex = 3;
+            // 
+            // label6
+            // 
+            this.label6.Location = new System.Drawing.Point(8, 10);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(67, 25);
+            this.label6.TabIndex = 2;
+            this.label6.Text = "ＮＭ＄";
+            this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // label5
+            // 
+            this.label5.Location = new System.Drawing.Point(13, 189);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(88, 25);
+            this.label5.TabIndex = 12;
+            this.label5.Text = "ホルスタイン";
+            this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
             // label14
             // 
             this.label14.Location = new System.Drawing.Point(13, 343);
@@ -352,6 +354,7 @@ namespace StudyC1
             // 
             // textBox11
             // 
+            this.textBox11.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox11.Location = new System.Drawing.Point(97, 343);
             this.textBox11.Multiline = true;
             this.textBox11.Name = "textBox11";

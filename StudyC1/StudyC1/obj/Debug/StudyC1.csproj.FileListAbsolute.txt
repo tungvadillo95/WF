@@ -26,3 +26,31 @@ C:\Users\ASUS\OneDrive\Máy tính\StudyC1\StudyC1\bin\Debug\C1.Win.C1Schedule.4.
 C:\Users\ASUS\OneDrive\Máy tính\StudyC1\StudyC1\bin\Debug\C1.Win.C1Schedule.4.5.2.xml
 C:\Users\ASUS\OneDrive\Máy tính\StudyC1\StudyC1\bin\Debug\C1.Win.Calendar.4.5.2.dll
 C:\Users\ASUS\OneDrive\Máy tính\StudyC1\StudyC1\bin\Debug\C1.Win.Calendar.4.5.2.xml
+D:\Winform\StudyC1\StudyC1\bin\Debug\StudyC1.exe.config
+D:\Winform\StudyC1\StudyC1\bin\Debug\StudyC1.exe
+D:\Winform\StudyC1\StudyC1\bin\Debug\StudyC1.pdb
+D:\Winform\StudyC1\StudyC1\bin\Debug\C1.Win.4.5.2.dll
+D:\Winform\StudyC1\StudyC1\bin\Debug\C1.Win.C1FlexGrid.4.5.2.dll
+D:\Winform\StudyC1\StudyC1\bin\Debug\C1.Win.C1Input.4.5.2.dll
+D:\Winform\StudyC1\StudyC1\bin\Debug\C1.Win.C1Schedule.4.5.2.dll
+D:\Winform\StudyC1\StudyC1\bin\Debug\C1.Win.Calendar.4.5.2.dll
+D:\Winform\StudyC1\StudyC1\bin\Debug\C1.Win.TreeView.4.5.2.dll
+D:\Winform\StudyC1\StudyC1\bin\Debug\C1.Win.C1Command.4.5.2.dll
+D:\Winform\StudyC1\StudyC1\bin\Debug\C1.Win.4.5.2.xml
+D:\Winform\StudyC1\StudyC1\bin\Debug\C1.Win.C1FlexGrid.4.5.2.xml
+D:\Winform\StudyC1\StudyC1\bin\Debug\C1.Win.C1Input.4.5.2.xml
+D:\Winform\StudyC1\StudyC1\bin\Debug\C1.Win.C1Schedule.4.5.2.xml
+D:\Winform\StudyC1\StudyC1\bin\Debug\C1.Win.Calendar.4.5.2.xml
+D:\Winform\StudyC1\StudyC1\bin\Debug\C1.Win.TreeView.4.5.2.xml
+D:\Winform\StudyC1\StudyC1\bin\Debug\C1.Win.C1Command.4.5.2.xml
+D:\Winform\StudyC1\StudyC1\obj\Debug\StudyC1.csproj.AssemblyReference.cache
+D:\Winform\StudyC1\StudyC1\obj\Debug\StudyC1.Form1.resources
+D:\Winform\StudyC1\StudyC1\obj\Debug\StudyC1.Form2.resources
+D:\Winform\StudyC1\StudyC1\obj\Debug\StudyC1.Form3.resources
+D:\Winform\StudyC1\StudyC1\obj\Debug\StudyC1.Properties.Resources.resources
+D:\Winform\StudyC1\StudyC1\obj\Debug\StudyC1.csproj.GenerateResource.cache
+D:\Winform\StudyC1\StudyC1\obj\Debug\StudyC1.exe.licenses
+D:\Winform\StudyC1\StudyC1\obj\Debug\StudyC1.csproj.CoreCompileInputs.cache
+D:\Winform\StudyC1\StudyC1\obj\Debug\StudyC1.csproj.CopyComplete
+D:\Winform\StudyC1\StudyC1\obj\Debug\StudyC1.exe
+D:\Winform\StudyC1\StudyC1\obj\Debug\StudyC1.pdb

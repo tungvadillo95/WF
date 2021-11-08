@@ -66,6 +66,7 @@ namespace StudyC1
             this.c1FlexGrid1.Rows.MinSize = 25;
             this.c1FlexGrid1.Size = new System.Drawing.Size(471, 404);
             this.c1FlexGrid1.TabIndex = 0;
+            this.c1FlexGrid1.Click += new System.EventHandler(this.c1FlexGrid1_Click);
             // 
             // c1TextBox2
             // 

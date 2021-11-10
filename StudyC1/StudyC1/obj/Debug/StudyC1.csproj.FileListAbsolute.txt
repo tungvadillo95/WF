@@ -54,3 +54,10 @@ D:\Winform\StudyC1\StudyC1\obj\Debug\StudyC1.csproj.CoreCompileInputs.cache
 D:\Winform\StudyC1\StudyC1\obj\Debug\StudyC1.csproj.CopyComplete
 D:\Winform\StudyC1\StudyC1\obj\Debug\StudyC1.exe
 D:\Winform\StudyC1\StudyC1\obj\Debug\StudyC1.pdb
+D:\Winform\StudyC1\StudyC1\bin\Debug\C1.Win.C1InputPanel.4.5.2.dll
+D:\Winform\StudyC1\StudyC1\bin\Debug\C1.Win.C1InputPanel.4.5.2.xml
+D:\Winform\StudyC1\StudyC1\bin\Debug\C1.Win.C1SuperTooltip.4.5.2.dll
+D:\Winform\StudyC1\StudyC1\bin\Debug\C1.Win.C1SuperTooltip.4.5.2.xml
+D:\Winform\StudyC1\StudyC1\bin\Debug\C1.Win.C1FlexGrid.GroupPanel.4.5.2.dll
+D:\Winform\StudyC1\StudyC1\bin\Debug\C1.Win.C1FlexGrid.GroupPanel.4.5.2.xml
+D:\Winform\StudyC1\StudyC1\obj\Debug\StudyC1.Form4.resources

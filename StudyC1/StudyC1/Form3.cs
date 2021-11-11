@@ -132,6 +132,9 @@ namespace StudyC1
                 case "F2":
                     ResetData();
                     break;
+                case "F4":
+                    OpenDialog();
+                    break;
                 case "F5":
                     DeleteBreed();
                     break;
@@ -518,6 +521,15 @@ namespace StudyC1
         }
 
         private void c1Button1_Click(object sender, EventArgs e)
+        {
+            OpenDialog();
+        }
+
+        private void c1Button4_Click(object sender, EventArgs e)
+        {
+
+        }
+        private void OpenDialog()
         {
             var form4 = new Form4();
             form4.ShowDialog();

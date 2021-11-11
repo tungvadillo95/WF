@@ -270,6 +270,7 @@ namespace StudyC1
             this.breed_identifi_no.AutoSize = false;
             this.breed_identifi_no.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.breed_identifi_no.Location = new System.Drawing.Point(124, 31);
+            this.breed_identifi_no.MaxLength = 10;
             this.breed_identifi_no.Name = "breed_identifi_no";
             this.breed_identifi_no.Size = new System.Drawing.Size(136, 31);
             this.breed_identifi_no.TabIndex = 17;
@@ -282,6 +283,7 @@ namespace StudyC1
             this.breed_name.AutoSize = false;
             this.breed_name.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.breed_name.Location = new System.Drawing.Point(125, 128);
+            this.breed_name.MaxLength = 20;
             this.breed_name.Name = "breed_name";
             this.breed_name.Size = new System.Drawing.Size(330, 31);
             this.breed_name.TabIndex = 18;
@@ -787,6 +789,7 @@ namespace StudyC1
             this.c1Button4.TabIndex = 48;
             this.c1Button4.Text = "参照";
             this.c1Button4.UseVisualStyleBackColor = true;
+            this.c1Button4.Click += new System.EventHandler(this.c1Button4_Click);
             // 
             // c1Button5
             // 
